@@ -6,4 +6,9 @@ function printSomething(){
     }
 }
 
+function write(){
+    console.log("This is written in js!!")
+}
+
+write()
 printSomething();
