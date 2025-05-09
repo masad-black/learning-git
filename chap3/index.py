@@ -5,4 +5,9 @@ def printSomething():
         print(f"Item: {Item}")
 
 
+def write():
+    print("This is written in py!!")
+
+
+write()
 printSomething()
