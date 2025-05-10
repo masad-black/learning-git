@@ -10,10 +10,5 @@ function write(){
     console.log("This is written in js!!")
 }
 
-function delete(){
-    console.log("This is written in js!!")
-}
-
-delete()
 write()
 printSomething();
